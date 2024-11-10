@@ -1,0 +1,1084 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{amssymb} 
+\usepackage{geometry}
+\usepackage{titlesec}
+\usepackage{graphicx}
+\usepackage{tcolorbox}
+\usepackage{array}
+
+
+\geometry{
+  a4paper,
+  left=25mm,
+  right=25mm,
+  top=25mm,
+  bottom=25mm
+}
+
+\begin{document}
+
+\section*{Herzlich Willkommen!}
+
+\noindent
+Diese Umfrage ist Teil eines aktuellen Forschungsprojekts der Goethe-Universität. In dem Projekt geht es um \textbf{Einstellungen und Entscheidungen von Bürgerinnen und Bürgern zum Leben in der Stadt Frankfurt}. Wir danken Ihnen, dass Sie unsere Forschung unterstützen. Um möglichst aussagekräftige Ergebnisse erzielen zu können, möchten wir Sie bitten, die Fragen in dieser Umfrage \textbf{allein zu beantworten} und sich nicht mit anderen Personen abzusprechen.
+
+\section*{Wer ist verantwortlich für die Studie?}
+
+\noindent
+Verantwortlich für die Durchführung der Studie ist das Frankfurter Labor für Experimentelle Wirtschaftsforschung (FLEX), Goethe-Universität, Theodor-W.-Adorno-Platz 4, 60323 Frankfurt am Main.
+
+\section*{Welchen Zwecken dient diese Studie?}
+
+\noindent
+Ziel dieser Studie ist es, Einstellungen und Entscheidungen von Bürgerinnen und Bürgern in Frankfurt besser zu verstehen. Die Wissenschaft ist an möglichst verzerrungsfreiem, natürlichem Verhalten interessiert. Wie bei experimentalökonomischen Studien üblich, erfolgt daher vorab keine umfassende Aufklärung über den Forschungshintergrund. Sämtliche relevante Informationen werden Ihnen während der Studie zur Verfügung gestellt.
+
+\section*{Was geschieht mit meinen Daten? \href{Datenschutzhinweis_Goethe.pdf}{(Klicken Sie hier für die Datenschutzerklärung)}}
+\noindent
+Alle beteiligten Mitarbeiter und Wissenschaftler arbeiten selbstverständlich nach den Vorschriften der Datenschutz-Grundverordnung, dem Bundesdatenschutzgesetz und den einschlägigen Landesdatenschutzgesetzen. Ihre Daten werden unmittelbar nach der Erhebung pseudonymisiert gespeichert und anschließend statistisch ausgewertet. Aus den Ergebnissen lassen sich anschließend keine Rückschlüsse auf Sie als Person ziehen.\\
+\newline
+\noindent
+Für die Studie erheben wir auch sog. „besondere Arten personenbezogener Daten“, insbesondere Daten, aus denen der Migrationshintergrund (rassische oder ethnische Herkunft – Begriff laut Art. 9 DS-GVO), politische Meinungen oder weltanschauliche Überzeugungen hervorgehen, die wir nur mit Ihrer Einwilligung für Forschungszwecke verwenden.\\
+\newline
+\noindent
+Durch Ihre Teilnahme können Sie Geld verdienen. Unter allen Teilnehmerinnen und Teilnehmern verlosen wir 200 mal 20 Euro. Dazu können 20 weitere zufällig ausgeloste Teilnehmerinnen und Teilnehmer bis zu 200 Euro gewinnen. Um Sie nach der Auslosung informieren zu können ob Sie gewonnen haben, verwenden wir Ihre Adressdaten, wofür wir ebenso Ihre Einwilligung benötigen.
+
+\section*{Einwilligungserklärung}
+
+\noindent
+Hiermit willige ich in die Verarbeitung meiner personenbezogenen Daten für das Forschungsvorhaben zu Einstellungen und Entscheidungen von Bürgerinnen und Bürgern zum Leben in der Stadt Frankfurt ein. Die Einwilligung kann ich jederzeit widerrufen. \\
+\newline
+\noindent
+Mit meiner Einwilligung erkläre ich, dass ich
+\begin{itemize}
+    \item mindestens 18 Jahre alt bin
+    \item freiwillig an dieser Umfrage teilnehme
+    \item die Hinweise zur Verwendung meiner Daten und zu meinen Rechten in der Datenschutzerklärung gelesen und zur Kenntnis genommen habe.
+\end{itemize}
+
+\vspace{1em}
+\noindent
+$\square$ Hiermit willige ich in die Verarbeitung meiner personenbezogenen Daten für das oben beschriebene Forschungsvorhaben ein.
+
+
+\newpage
+
+\section*{Aufmerksamkeitstest}
+
+\noindent
+Diese Frage betrifft das folgende Problem: Viele Teilnehmerinnen und Teilnehmer klicken Umfragen wie diese schnell durch, ohne die Aufgabenstellungen sorgfältig durchzulesen. Dies führt dazu, dass die Ergebnisse verfälscht werden.\\
+\newline
+\noindent
+Um zu zeigen, dass Sie \textbf{unsere Fragen aufmerksam lesen}, klicken Sie bitte bei dieser Frage \textbf{sowohl} \textit{„Interessiert mich sehr“} \textbf{als auch} \textit{„Ich habe von der TV-Serie noch nie gehört“} an.\\
+\newline
+\noindent
+Beantworten Sie bitte folgende Frage, basierend auf den oben erhaltenen Informationen: Wie sehr interessieren Sie sich für "Die Simpsons"?
+
+\begin{itemize}[label=$\square$]
+    \item Interessiert mich sehr
+    \item Interessiert mich wenig
+    \item Interessiert mich nicht
+    \item Ich habe von der TV-Serie noch nie gehört
+\end{itemize}
+
+\vspace{1em}
+
+\newpage
+
+\section*{Zu Ihrer Person}
+
+\noindent
+Wir möchten Ihnen zunächst Fragen zu Ihrer Person stellen.
+
+\begin{itemize}
+    \item[] In welchem Jahr sind Sie geboren? 
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=2cm, height=0.8cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+    
+    \item[] Welchem Geschlecht ordnen Sie sich zu? 
+    \begin{itemize}
+        \item[] $\square$ Männlich
+        \item[] $\square$ Weiblich
+        \item[] $\square$ Divers
+    \end{itemize}
+
+    \item[] Seit wann leben Sie in Frankfurt? 
+    \begin{itemize}
+        \item[] $\square$ Weniger als 1 Jahr
+        \item[] $\square$ Seit 1-2 Jahren
+        \item[] $\square$ Seit 3-4 Jahren
+        \item[] $\square$ Seit 5-9 Jahren
+        \item[] $\square$ Seit mehr als 10 Jahren
+        \item[] $\square$ Gar Nicht
+    \end{itemize}
+    
+    \item[] Wie viele Jahre beabsichtigen Sie, in Frankfurt wohnen zu bleiben? 
+    \begin{itemize}
+        \item[] $\square$ Weniger als 1 Jahr
+        \item[] $\square$ 1-2 Jahre
+        \item[] $\square$ 3-4 Jahre
+        \item[] $\square$ Mehr als 4 Jahre
+        \item[] $\square$ Weiß nicht
+    \end{itemize}
+    
+    \item[] Bitte nennen Sie drei Eigenschaftswörter, die Ihnen spontan einfallen, wenn Sie an Frankfurt denken. \\
+    \newline
+    1. \tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=12cm, height=0.8cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+    2.\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=12cm, height=0.8cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+    3.\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=12cm, height=0.8cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+
+\vspace{2em}
+    \item[] Wie würden Sie die positiven Seiten von Frankfurt Ihren Bekannten von außerhalb beschreiben? 
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=14.5cm, height=1.5cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+\newpage
+    
+    \item[] Wie würden Sie die negativen Seiten von Frankfurt Ihren Bekannten von außerhalb beschreiben?
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=14.5cm, height=1.5cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+\vspace{2em}
+    \item[] Inwiefern stimmen Sie folgenden Aussagen zu: \\
+    \newline
+    Ich identifiziere mich mit der Stadt Frankfurt. \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\itshape}p{4cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} >{\itshape}p{4cm}@{}}
+    stimme überhaupt nicht zu & $\square$ & 1 & $\square$ & 2 & $\square$ & 3 & $\square$ & 4 & $\square$ & 5 & stimme voll und ganz zu \\
+\end{tabular}
+
+\vspace{1em}
+    \item[] Ich sehe mich als Teil der Stadt. \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\itshape}p{4cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} >{\itshape}p{4cm}@{}}
+    stimme überhaupt nicht zu & $\square$ & 1 & $\square$ & 2 & $\square$ & 3 & $\square$ & 4 & $\square$ & 5 & stimme voll und ganz zu \\
+\end{tabular}
+
+\vspace{1em}
+    \item[] Ich fühle mich den Mitmenschen in der Stadt verbunden. \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\itshape}p{4cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} >{\itshape}p{4cm}@{}}
+    stimme überhaupt nicht zu & $\square$ & 1 & $\square$ & 2 & $\square$ & 3 & $\square$ & 4 & $\square$ & 5 & stimme voll und ganz zu \\
+\end{tabular}
+
+\vspace{1em}
+    \item[] Ich bin froh, in Frankfurt zu leben \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\itshape}p{4cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} >{\itshape}p{4cm}@{}}
+    stimme überhaupt nicht zu & $\square$ & 1 & $\square$ & 2 & $\square$ & 3 & $\square$ & 4 & $\square$ & 5 & stimme voll und ganz zu \\
+\end{tabular}
+
+\vspace{2em}
+    \item[] Wie groß ist Ihr Vertrauen in die Frankfurter Regierung (Magistrat)? 
+    \begin{itemize}
+        \item[] $\square$ Sehr groß
+        \item[] $\square$ Groß
+        \item[] $\square$ Mittel
+        \item[] $\square$ Gering
+        \item[] $\square$ Sehr gering
+    \end{itemize}
+\end{itemize}
+
+\newpage
+
+\section*{Klimawandel}
+
+\noindent
+Die folgenden Fragen beziehen sich auf den Klimawandel (globale Erwärmung). Klimawandel bedeutet, dass die Durchschnittstemperatur in der Welt in den letzten 150 Jahren erheblich gestiegen ist und in Zukunft höchstwahrscheinlich weiter steigen wird.
+
+\vspace{1em}
+\noindent
+\textbf{Glauben Sie, dass es einen Klimawandel gibt?}
+\begin{itemize}
+    \item[] $\square$ Ja
+    \item[] $\square$ Nein
+    \item[] $\square$ Weiß nicht
+\end{itemize}
+
+\vspace{1em}
+\noindent
+\textbf{Was denken Sie: Der Klimawandel ist hauptsächlich ein Ergebnis…}
+\begin{itemize}
+    \item[] $\square$ Menschlicher Aktivitäten
+    \item[] $\square$ Natürlicher Entwicklungen
+    \item[] $\square$ Weder noch, denn der Klimawandel findet nicht statt
+    \item[] $\square$ Weiß nicht
+\end{itemize}
+
+\vspace{1em}
+\noindent
+\textbf{Ganz allgemein, wie sehr vertrauen Sie Wissenschaftlerinnen und Wissenschaftlern, die sich mit dem Klimawandel auseinandersetzen?} 
+\begin{itemize}
+    \item[] $\square$ Sehr stark
+    \item[] $\square$ Stark
+    \item[] $\square$ Einigermaßen
+    \item[] $\square$ Eher nicht
+    \item[] $\square$ Gar nicht
+\end{itemize}
+
+\vspace{1em}
+\noindent
+\textbf{Was denken Sie: Welche der Aussagen beschreibt die Einschätzungen von Wissenschaftlerinnen und Wissenschaftlern am besten?}
+\begin{itemize}
+    \item[] $\square$ Der Großteil denkt, der menschengemachte Klimawandel findet statt.
+    \item[] $\square$ Es gibt in der Wissenschaft viele unterschiedliche Meinungen zum Klimawandel.
+    \item[] $\square$ Der Großteil denkt, der menschengemachte Klimawandel findet nicht statt.
+\end{itemize}
+
+\vspace{1em}
+\noindent
+\textbf{Wie sehr beunruhigt Sie der Klimawandel?} 
+\begin{itemize}
+    \item[] $\square$ Beunruhigt mich sehr
+    \item[] $\square$ Beunruhigt mich
+    \item[] $\square$ Beunruhigt mich kaum
+    \item[] $\square$ Beunruhigt mich gar nicht
+\end{itemize}
+
+\newpage
+\noindent
+\textbf{Was denken Sie: Wie sehr wird der Klimawandel den Menschen in Frankfurt schaden?} 
+\begin{itemize}
+    \item[] $\square$ Gar nicht 
+    \item[] $\square$ Wenig 
+    \item[] $\square$ Stark
+    \item[] $\square$ Sehr stark
+\end{itemize}
+
+\vspace{1em}
+\noindent
+\newline
+\textbf{Was denken Sie: Wie sehr wird der Klimawandel künftigen Generationen von Menschen in Frankfurt schaden?}
+\begin{itemize}
+    \item[] $\square$ Gar nicht 
+    \item[] $\square$ Wenig 
+    \item[] $\square$ Stark
+    \item[] $\square$ Sehr stark
+\end{itemize}
+
+\vspace{1em}
+\noindent
+\textbf{Beeinflussen der Klimawandel und seine möglichen Folgen Ihre Zukunftsentscheidungen, beispielsweise in Bezug auf Familie, Karriere, Wohnen oder Sparen?} 
+\begin{itemize}
+    \item[] $\square$ Ja 
+    \item[] $\square$ Nein
+\end{itemize}
+
+\vspace{1em}
+\noindent
+\textbf{Bei welchen Entscheidungen spielt der Klimawandel für Sie eine Rolle? (Mehrfachnennung möglich)} 
+\begin{itemize}
+    \item[] $\square$ Kinderwunsch
+    \item[] $\square$ Karriereplanung
+    \item[] $\square$ Sparverhalten
+    \item[] $\square$ Haus- oder Wohnungskauf
+    \item[] $\square$ Bei keiner der Alternativen
+\end{itemize}
+
+\vspace{1em}
+\noindent
+Gibt es noch weitere Entscheidungen, bei denen der Klimawandel für Sie eine Rolle spielt? Wenn ja, welche?
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=10cm, height=1cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+
+\vspace{1em}
+\noindent
+\textbf{Wie häufig sprechen Sie über das Thema Klimawandel mit Ihrer Familie, Ihren Freunden oder Kollegen?} 
+\begin{itemize}
+    \item[] $\square$ Regelmäßig
+    \item[] $\square$ Gelegentlich
+    \item[] $\square$ Selten
+    \item[] $\square$ Nie
+\end{itemize}
+
+\newpage
+\noindent
+\textbf{Was meinen Sie, wie viel tut die Stadt Frankfurt derzeit gegen den Klimawandel?} 
+\begin{itemize}
+    \item[] $\square$ Gar nichts
+    \item[] $\square$ Wenig
+    \item[] $\square$ Einiges
+    \item[] $\square$ Viel
+    \item[] $\square$ Sehr viel
+\end{itemize}
+
+\newpage
+
+\section*{Bonuszahlung}
+
+\noindent
+Im Folgenden gibt es einige Fragen, bei denen wir Sie um Ihre Einschätzung bitten, wie andere Menschen eine bestimmte Frage beantworten. 
+Diese Fragen sind mit folgendem Zeichen gekennzeichnet, und Sie können damit einen Bonus verdienen.
+
+\vspace{1em}
+\begin{center}
+    \includegraphics[width=0.5\textwidth]{bonus.png} % the image file in the correct path
+\end{center}
+
+\vspace{1em}
+\noindent
+Dies funktioniert wie folgt: Wir werden eine dieser Fragen zufällig auswählen.
+Ihre Antwort gilt als richtig, wenn der Unterschied zur korrekten Zahl, die Sie schätzen sollten, nicht größer als drei ist. 
+In dem Fall bekommen Sie 3 Euro zusätzlich ausbezahlt, sollten Sie am Ende ausgelost werden.
+
+\newpage
+
+\noindent
+Bitte beantworten Sie die folgenden Fragen.
+
+\vspace{1em}
+\noindent
+\textbf{Was tun Sie?}
+
+\vspace{1em}
+\noindent
+Versuchen Sie, aktiv etwas gegen den Klimawandel zu unternehmen?
+\begin{itemize}
+    \item[] $\square$ Ja
+    \item[] $\square$ Nein
+\end{itemize}
+
+\vspace{1em}
+\noindent
+\textbf{Was sollten die Menschen tun?}
+
+\vspace{1em}
+\noindent
+Was denken Sie: Sollten die Menschen \textbf{in Deutschland} aktiv etwas gegen den Klimawandel unternehmen? 
+\begin{itemize}
+    \item[] $\square$ Ja
+    \item[] $\square$ Nein
+\end{itemize}
+
+\vspace{1em}
+\noindent
+Was denken Sie: Sollten die Menschen \textbf{in Frankfurt} aktiv etwas gegen den Klimawandel unternehmen?
+\begin{itemize}
+    \item[] $\square$ Ja
+    \item[] $\square$ Nein
+\end{itemize} 
+
+\newpage
+
+\noindent
+Im Zuge dieses Forschungsprojekts stellen wir vielen Menschen innerhalb Frankfurts dieselben Fragen.
+Die befragten Personen kommen aus allen Teilen der Frankfurter Gesellschaft. Das bedeutet, ihre Ansichten repräsentieren
+die Meinungen und Einstellungen aller Frankfurter und Frankfurterinnen.
+
+\vspace{3em}
+\noindent
+\textbf{Was tun andere?} 
+\begin{flushleft} 
+    \includegraphics[width=0.25\textwidth]{bonus.png} 
+\end{flushleft}
+
+\vspace{1em}
+\noindent
+Was denken Sie: Wie viele von 100 Befragten geben an, dass \textbf{sie selbst versuchen}, aktiv etwas gegen den Klimawandel zu unternehmen? 
+
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=4cm, height=1cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+
+\begin{small}
+    \noindent
+    \begin{em}
+        Bitte geben Sie eine Zahl zwischen 0 und 100 an. Wenn Sie richtig liegen, können Sie 3 Euro zusätzlich verdienen.
+    \end{em}
+\end{small}
+
+
+
+\vspace{3em}
+\noindent
+\textbf{Meinung anderer: Was sollten die Menschen tun?} 
+\begin{flushleft} 
+    \includegraphics[width=0.25\textwidth]{bonus.png} 
+\end{flushleft}
+
+\vspace{1em}
+\noindent
+Was denken Sie: Wie viele von 100 Befragten geben an, dass \textbf{sie der Meinung sind, die Menschen in Frankfurt sollten} aktiv etwas gegen den Klimawandel unternehmen? 
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=4cm, height=1cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+
+\begin{small}
+    \noindent
+    \begin{em}
+        Bitte geben Sie eine Zahl zwischen 0 und 100 an. Wenn Sie richtig liegen, können Sie 3 Euro zusätzlich verdienen.
+    \end{em}
+\end{small}
+
+\newpage
+
+\section*{Was tut die Stadt Frankfurt?}
+
+\noindent
+Die Auswirkungen der globalen Klimakrise sind auch in Frankfurt spür- und sichtbar. 
+Der Schutz des Klimas und die Anpassung an den Klimawandel gehören zu den größten Herausforderungen der Stadtpolitik. 
+Frankfurt hat sich als Ziel gesetzt, \textbf{bis 2035 klimaneutral} zu werden und ist dafür seit diesem Jahr als eine von 100 Städten für die Europäische Initiative 
+„NetZeroCities“ ausgewählt. Bereits jetzt werden vielfältige Maßnahmen umgesetzt. Im Folgenden geben wir Ihnen vier konkrete Beispiele: \\
+
+\vspace{1em}
+\noindent
+
+\noindent
+\textbf{1. Die Stadt Frankfurt reduziert ihren Energieverbrauch und stellt auf Solarenergie um}
+
+\vspace{1em}
+\noindent
+Der \textbf{städtische Stromverbrauch} konnte trotz der vor allem im Bereich der IT rasant zunehmenden technischen Ausstattung seit 1991 \textbf{um 21 \% gesenkt} werden. 
+Der \textbf{Heizenergieverbrauch sank} sogar \textbf{um 44 \%}, der \textbf{Wasserverbrauch um 59 \%} und die \textbf{CO2-Emissionen um 55 \%}. 
+Der Energieverbrauch wird auch durch eine Umstellung der Straßenbeleuchtung und die Anschaffung von E-Fahrzeugen reduziert. Derzeit wird auf den städtischen Gebäuden ca. 10 \% des verbrauchten Stroms selbst erzeugt. 
+Die Stadt arbeitet intensiv daran, diesen Anteil in den nächsten Jahren weiter zu erhöhen, und hat den Wert seit 2017 bereits mehr als verdoppelt. 
+Weitere Informationen finden Sie \href{https://energiemanagement.stadt-frankfurt.de/}{hier}.
+
+\vspace{1em}
+\noindent
+\textbf{2. Mehr Solarenergie für Frankfurter Dächer}
+
+\vspace{1em}
+\noindent
+Der städtische Haushalt sieht bis zum Jahr 2025 ein \textbf{neues Investitionsprogramm} von insgesamt 245 Mio. 
+Euro für Maßnahmen zum Klimaschutz und zur Klimaanpassung vor. Eine wichtige Maßnahme ist auch hier die \textbf{Förderung von Solarenergie}, 
+insbesondere auf Dächern von Privathaushalten. Ein entsprechendes Förderprogramm wird derzeit vom Klimadezernat entwickelt.
+
+\vspace{1em}
+\noindent
+\textbf{3. Mehr Grün an, auf und hinterm Haus}
+
+\vspace{1em}
+\noindent
+Um mehr CO2 einzuspeichern und für ein kühleres Stadtklima zu sorgen, wurde bereits 2017 das Projekt \textbf{„Frankfurt Frischt Auf“} gestartet. 
+Haus- und Grundstücksbesitzende werden dabei mit bis zu 50 Prozent und 50.000 Euro u.a. für die \textbf{Begrünung der Fassade und Dächer oder öffentlich zugänglicher Höfe gefördert}. 139 Maßnahmen wurden bereits erfolgreich umgesetzt. Weitere Informationen finden Sie \href{https://frankfurt.de/de-de/themen/klima-und-energie/stadtklima/klimabonus}{hier}.
+
+\vspace{1em}
+\noindent
+\textbf{4. Förderung von Klimaschutzprojekten in der Nachbarschaft}
+
+\vspace{1em}
+\noindent
+Die Stadt Frankfurt unterstützt mit bis zu \textbf{2.000 Euro pro Jahr} das Engagement von Bürgerinnen und Bürgern, die Klimaschutz konkret in ihrer Nachbarschaft umsetzen wollen. Zu den bereits geförderten Projekten zählen u.a. der Testlauf eines klimaneutralen, unmotorisierten Lieferservices regionaler Lebensmittel für die Innenstadt oder die Unterstützung beim Aufbau eines Verleihsystems für Lastenrädern im Riederwald und Kalbach. Weitere Informationen finden Sie \href{https://frankfurt.de/themen/klima-und-energie/klimaschutz/foerdermittel/buergerfoerderprogramm-klimaschutz}{hier}.
+
+\vspace{1em}
+\noindent
+\textbf{Welche dieser Maßnahmen der Stadt Frankfurt waren Ihnen bereits bekannt?}
+
+\vspace{1em}
+\begin{itemize}
+    \item[] $\square$ Die Stadt Frankfurt reduziert ihren Energieverbrauch und stellt auf Solarenergie um
+    \item[] $\square$ Mehr Solarenergie für Frankfurter Dächer 
+    \item[] $\square$ Mehr Grün an, auf und hinterm Haus
+    \item[] $\square$ Förderung von Klimaschutzprojekten in der Nachbarschaft
+    \item[] $\square$ Keine davon
+\end{itemize}
+
+\newpage
+
+\section*{Was tun andere Menschen in Frankfurt?}
+
+\noindent
+Wir haben in einer aktuellen Umfrage 500 Bürgerinnen und Bürger in Frankfurt befragt, ob sie versuchen, aktiv etwas gegen den Klimawandel zu unternehmen. 
+Die befragten Personen kommen aus allen Teilen der Frankfurter Gesellschaft. 
+Das bedeutet, ihre Ansichten repräsentieren die Meinungen und Einstellungen aller Frankfurter und Frankfurterinnen.
+
+\vspace{1em}
+\noindent
+Wir haben die folgende Frage gestellt: \\
+Versuchen Sie, aktiv etwas gegen den Klimawandel zu unternehmen? Ja oder Nein?
+
+\vspace{1em}
+\begin{center}
+    \includegraphics[width=0.8\textwidth]{peers.png} 
+\end{center}
+
+\newpage
+
+\section*{Spendenentscheidung}
+
+\noindent
+Ihre nächste Entscheidung hat finanzielle Konsequenzen für Sie und andere. \textbf{Achten Sie deshalb bitte besonders auf diese Frage.}
+
+\vspace{1em}
+\noindent
+In dieser Studie werden wir 20 Befragte nach dem Zufallsprinzip auswählen. Wenn Sie ausgewählt werden, 
+wird Ihre Entscheidung umgesetzt und Sie oder die Organisation \textit{atmosfair} können bis zu 200 Euro erhalten.
+
+\vspace{2em}
+\noindent
+\textbf{Ihre Entscheidung}
+
+\vspace{1em}
+\noindent
+\textbf{Sie können 200 Euro zwischen sich selbst und einer gemeinnützigen Organisation aufteilen, die gegen den Klimawandel kämpft.}
+
+\vspace{1em}
+\noindent
+Der Betrag, den Sie spenden, geht an die Wohltätigkeitsorganisation \textit{atmosfair}. Die preisgekrönte Organisation leistet durch die Förderung,
+Entwicklung und Finanzierung erneuerbarer Energien weltweit einen aktiven Beitrag zur CO2-Reduktion.
+So spart eine Spende CO2 ein, das sonst durch fossile Brennstoffe entstehen würde. \textit{atmosfair} gibt jährlich rund
+18,3 Millionen Euro für den Kampf gegen den Klimawandel aus und verwendet weniger als 5\% der Spendengelder zur Deckung der Verwaltungskosten.
+Wenn Sie mehr über die Organisation erfahren möchten, klicken Sie \href{https://www.atmosfair.de/de/}{hier}.
+
+\vspace{1em}
+\noindent
+Für 200 Euro können etwa 8,7 Tonnen CO2-Emissionen verhindert werden. Dies wird durch die Förderung von Projekten erzielt, die durch Stromsparmaßnahmen, 
+Solaranlagen oder effektiveren Öfen, CO2 einsparen können.
+8,7 Tonnen CO2 sind in etwa so viel, wie 40 Flüge von Frankfurt nach London oder 52.200 km mit einem Mittelklassewagen ausstoßen würden.
+
+\vspace{1em}
+\noindent
+\textbf{Ihre Entscheidung:}
+
+\vspace{1em}
+\noindent
+Welchen Teil der 200 Euro möchten Sie an \textit{atmosfair} spenden? 
+
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=4cm, height=1cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+
+\newpage
+
+\noindent
+Bitte denken Sie an die Spendenentscheidung, die Sie eben getroffen haben.
+
+\vspace{1em}
+\noindent
+\textbf{Was denken Sie:}
+
+\vspace{1em}
+\begin{flushleft} 
+    \includegraphics[width=0.25\textwidth]{bonus.png} 
+\end{flushleft}
+
+\vspace{1em}
+\noindent
+Wie viel von den 200 Euro haben die Frankfurterinnen und Frankfurter im Durchschnitt gespendet?
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=4cm, height=1cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+
+\begin{flushleft} 
+    \includegraphics[width=0.25\textwidth]{bonus.png} 
+\end{flushleft}
+
+\vspace{1em}
+\noindent
+Wie viel von den 200 Euro haben die Bürgerinnen und Bürger aus Ihrer Nachbarschaft im Durchschnitt gespendet?
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=4cm, height=1cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+
+\vspace{6em}
+\noindent
+Wie viel von den 200 Euro sollten Frankfurterinnen und Frankfurter spenden?
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=4cm, height=1cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+
+\vspace{2em}
+\noindent
+Wie viel von den 200 Euro sollten Bürgerinnen und Bürger aus Ihrer Nachbarschaft spenden?
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=4cm, height=1cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+
+\newpage
+
+\section*{Ihr individuelles Handeln}
+
+\vspace{1em}
+\noindent
+Sie haben vorhin auf die Frage, ob Sie versuchen aktiv etwas gegen den Klimawandel zu unternehmen, mit \textbf{Ja} geantwortet. Was tun Sie konkret gegen den Klimawandel 
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=15.8cm, height=3cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox} 
+\noindent
+\Large Falls Sie hier Nein angekreuzt haben sollten, ignorieren Sie bitte diese Frage.
+
+\newpage
+\section*{Ihr individuelles Handeln}
+\vspace{1cm}
+\noindent
+\normalsize Sie haben eben \textbf{\underline{\hspace{1cm}} Euro} gespendet. Wie kamen Sie zu diesem Betrag? 
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=15.8cm, height=3cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox} 
+\noindent
+
+\newpage
+
+\section*{Was tun Sie zur Bekämpfung des Klimawandels?}
+
+\vspace{1em}
+\noindent
+Welcher dieser Dinge versuchen Sie, aktiv zu tun?
+
+\vspace{1em}
+\begin{itemize}
+    \item[$\square$] ihren Fleischkonsum zu verringern.
+    \item[$\square$] auf das Fliegen zu verzichten.
+    \item[$\square$] umweltfreundliche Alternativen zum Auto zu benutzen.
+    \item[$\square$] Strom aus umweltfreundlichen Quellen zu beziehen.
+    \item[$\square$] in ihrem Kaufverhalten den CO2 Fußabdruck der Produkte zu berücksichtigen.
+    \item[$\square$] politisch den Kampf gegen den Klimawandel zu unterstützen, 
+    an Demonstrationen teilzunehmen, Petitionen zu unterschreiben oder Politische Organisationen zu unterstützen.
+\end{itemize}
+
+\vspace{1em}
+\begin{flushleft} 
+    \includegraphics[width=0.25\textwidth]{bonus.png} 
+\end{flushleft}
+
+\vspace{1em}
+\noindent
+Was denken Sie: Wie viele von 100 Befragten geben an, dass \textbf{sie selbst in Frankfurt …}
+
+\vspace{1em}
+\noindent
+ihren Fleischkonsum verringern?
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=4cm, height=1cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+
+\vspace{1em}
+\noindent
+auf das Fliegen verzichten?
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=4cm, height=1cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+
+\vspace{1em}
+\noindent
+umweltfreundliche Alternativen zum Auto benutzen?
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=4cm, height=1cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+
+\vspace{1em}
+\noindent
+Strom aus umweltfreundlichen Quellen beziehen?
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=4cm, height=1cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+
+\vspace{1em}
+\noindent
+in ihrem Kaufverhalten den CO2 Fußabdruck der Produkte berücksichtigen?
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=4cm, height=1cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+
+
+\vspace{1em}
+\noindent
+politisch den Kampf gegen den Klimawandel unterstützen, an Demonstrationen teilnehmen, Petitionen unterschreiben oder Politische Organisationen unterstützen?
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=4cm, height=1cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+
+
+\newpage
+
+\noindent
+Welcher dieser Dinge sollten Menschen in Frankfurt Ihrer Meinung nach tun?
+\vspace{1em}
+\begin{itemize}
+    \item[$\square$] ihren Fleischkonsum zu verringern.
+    \item[$\square$] auf das Fliegen zu verzichten.
+    \item[$\square$] umweltfreundliche Alternativen zum Auto zu benutzen.
+    \item[$\square$] Strom aus umweltfreundlichen Quellen zu beziehen.
+    \item[$\square$] in ihrem Kaufverhalten den CO2 Fußabdruck der Produkte zu berücksichtigen.
+    \item[$\square$] politisch den Kampf gegen den Klimawandel zu unterstützen, 
+    an Demonstrationen teilzunehmen, Petitionen zu unterschreiben oder Politische Organisationen zu unterstützen.
+\end{itemize}
+
+\newpage
+\noindent
+Wären Sie bereit, monatlich 1 \% Ihres Haushaltseinkommens für die Bekämpfung der globalen Erwärmung beizutragen? Dies würde bedeuten, dass Sie für jede 100 Euro dieses Einkommens 1 Euro beisteuern würden.
+\begin{itemize}
+    \item[] $\square$ Ja
+    \item[] $\square$ Nein
+\end{itemize}
+
+\vspace{1em}
+\begin{flushleft} 
+    \includegraphics[width=0.25\textwidth]{bonus.png} 
+\end{flushleft}
+
+\vspace{1em}
+\noindent
+Wie viele von 100 Personen in Frankfurt sind Ihrer Meinung nach bereit, monatlich mindestens 1 \% ihres Haushaltseinkommens zur Bekämpfung der globalen Erwärmung beizutragen?
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=4cm, height=1cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+
+\vspace{3em}
+\noindent
+Investieren Sie in Aktien, Aktienfonds oder ETFs?
+\begin{itemize}
+    \item[] $\square$ Ja
+    \item[] $\square$ Nein
+\end{itemize}
+
+\vspace{2em}
+\noindent
+Inwieweit stimmen Sie folgenden Aussagen zu:
+
+\vspace{1em}
+\noindent
+\textbf{Mein Finanzwissen ist gut.} \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\itshape}p{4cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} >{\itshape}p{4cm}@{}}
+    stimme überhaupt nicht zu & $\square$ & 1 & $\square$ & 2 & $\square$ & 3 & $\square$ & 4 & $\square$ & 5 & stimme voll und ganz zu \\
+\end{tabular}
+
+\vspace{2em}
+\noindent
+\textbf{Wenn ich sicher wäre, dass mein Geld nur in nachhaltige Unternehmen investiert wird, würde ich mehr Geld am Aktienmarkt investieren.} \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\itshape}p{4cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} >{\itshape}p{4cm}@{}}
+    stimme überhaupt nicht zu & $\square$ & 1 & $\square$ & 2 & $\square$ & 3 & $\square$ & 4 & $\square$ & 5 & stimme voll und ganz zu \\
+\end{tabular}
+
+\vspace{2em}
+\noindent
+\textbf{Investorinnen und Investoren, die am Aktienmarkt Geld anlegen, können mit ihrer Anlage einen Beitrag zum Klimaschutz leisten.} \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\itshape}p{4cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} >{\itshape}p{4cm}@{}}
+    stimme überhaupt nicht zu & $\square$ & 1 & $\square$ & 2 & $\square$ & 3 & $\square$ & 4 & $\square$ & 5 & stimme voll und ganz zu \\
+\end{tabular}
+
+\vspace{2em}
+\noindent
+\textbf{Ich halte das Investieren am Aktienmarkt für unmoralisch.} \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\itshape}p{4cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} >{\itshape}p{4cm}@{}}
+    stimme überhaupt nicht zu & $\square$ & 1 & $\square$ & 2 & $\square$ & 3 & $\square$ & 4 & $\square$ & 5 & stimme voll und ganz zu \\
+\end{tabular}
+
+\newpage
+\noindent
+Stellen Sie sich vor, Sie hätten heute die Möglichkeit, zu entscheiden, wie Sie das Geld, das Sie sparen möchten, in Zukunft anlegen.
+
+\vspace{1em}
+\noindent
+\textbf{Welche der folgenden Aussagen träfe am ehesten auf Sie zu:} \\
+\begin{itemize}
+    \item[$\square$] Ich möchte, dass mein Geld so angelegt wird, dass es einen Beitrag zur Nachhaltigkeit leistet.
+    \item[$\square$] Ich möchte, dass mein Geld so angelegt wird, dass Aktivitäten ausgeschlossen werden, die nicht meinen Werten entsprechen.
+    \item[$\square$] Ich möchte, dass mein Geld so angelegt wird, dass Nachhaltigkeitskriterien besonders berücksichtigt werden, weil ich glaube, dass man damit mehr Geld verdienen kann.
+    \item[$\square$] Ich möchte, dass mein Geld so angelegt wird, dass die Profite aus dem Investment gesteigert werden.
+    \item[$\square$] Ich möchte mein Geld gar nicht anlegen.
+    \item[$\square$] Ich habe kein Geld zum Sparen oder Anlegen.
+\end{itemize}
+
+\newpage
+% welcher Begriff hier zu schreiben
+\noindent
+Glauben Sie, die Stadt Frankfurt ist ein positives Beispiel im Bereich Klimaschutz und Klimaanpassung?
+\begin{itemize}
+    \item[] $\square$ Ja
+    \item[] $\square$ Nein
+    \item[] $\square$ Weiß nicht
+\end{itemize}
+
+\vspace{1em}
+\noindent
+Wie wichtig ist Ihrer Meinung nach der Frankfurter Regierung das Thema Klimaschutz und Klimaanpassung innerhalb der Stadt?
+\begin{itemize}
+    \item[] $\square$ Gar nicht wichtig
+    \item[] $\square$ Einigermaßen wichtig
+    \item[] $\square$ Wichtig
+    \item[] $\square$ Sehr wichtig
+\end{itemize}
+
+\vspace{1em}
+\noindent
+Wie sieht für Sie die Frankfurter Zukunft aus? Wie würden Sie das Leben in Frankfurt im Jahre 2050 beschreiben?
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=15.5cm, height=2.5cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+
+
+\vspace{2em}
+\noindent
+Wie sehr stimmen Sie den folgenden Aussagen zu:
+
+\vspace{1em}
+\noindent
+\textbf{Jeder Einzelne in Frankfurt kann einen Beitrag zur Bekämpfung des Klimawandel leisten.} \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\itshape}p{4cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} >{\itshape}p{4cm}@{}}
+    stimme überhaupt nicht zu & $\square$ & 1 & $\square$ & 2 & $\square$ & 3 & $\square$ & 4 & $\square$ & 5 & stimme voll und ganz zu \\
+\end{tabular}
+
+\vspace{2em}
+\noindent
+\textbf{Die Stadt Frankfurt selbst macht schon so viel zum Klimaschutz, dass ich selbst nichts mehr tun muss.} \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\itshape}p{4cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} >{\itshape}p{4cm}@{}}
+    stimme überhaupt nicht zu & $\square$ & 1 & $\square$ & 2 & $\square$ & 3 & $\square$ & 4 & $\square$ & 5 & stimme voll und ganz zu \\
+\end{tabular}
+
+\vspace{2em}
+\noindent
+\textbf{Wenn die Regierung etwas für den Klimaschutz tut, motiviert mich das, selbst auch etwas zu tun.} \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\itshape}p{4cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} >{\itshape}p{4cm}@{}}
+    stimme überhaupt nicht zu & $\square$ & 1 & $\square$ & 2 & $\square$ & 3 & $\square$ & 4 & $\square$ & 5 & stimme voll und ganz zu \\
+\end{tabular}
+
+\vspace{2em}
+\noindent
+\textbf{Wenn meine Freunde und Nachbarn etwas für den Klimaschutz tun, motiviert mich das, selbst etwas zu tun.} \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\itshape}p{4cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} >{\itshape}p{4cm}@{}}
+    stimme überhaupt nicht zu & $\square$ & 1 & $\square$ & 2 & $\square$ & 3 & $\square$ & 4 & $\square$ & 5 & stimme voll und ganz zu \\
+\end{tabular}
+
+\vspace{2em}
+\noindent
+\textbf{Klimaschutz ist eine große Herausforderung, weil die notwendigen Maßnahmen das Leben in Frankfurt einschränken werden.} \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\itshape}p{4cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} >{\itshape}p{4cm}@{}}
+    stimme überhaupt nicht zu & $\square$ & 1 & $\square$ & 2 & $\square$ & 3 & $\square$ & 4 & $\square$ & 5 & stimme voll und ganz zu \\
+\end{tabular}
+
+\newpage
+
+\noindent
+\textbf{Ich möchte beim Klimaschutz als gutes Beispiel vorangehen, um andere zu motivieren, selbst etwas zu tun.} \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\itshape}p{4cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} >{\itshape}p{4cm}@{}}
+    stimme überhaupt nicht zu & $\square$ & 1 & $\square$ & 2 & $\square$ & 3 & $\square$ & 4 & $\square$ & 5 & stimme voll und ganz zu \\
+\end{tabular}
+
+\vspace{2em}
+\noindent
+\textbf{Selbst etwas für den Klimaschutz zu tun ist schwer, weil es gar nicht so klar ist, wo man sich engagieren kann.} \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\itshape}p{4cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} >{\itshape}p{4cm}@{}}
+    stimme überhaupt nicht zu & $\square$ & 1 & $\square$ & 2 & $\square$ & 3 & $\square$ & 4 & $\square$ & 5 & stimme voll und ganz zu \\
+\end{tabular}
+
+\vspace{2em}
+\noindent
+\textbf{Ich würde mir mehr Maßnahmen der Stadt Frankfurt wünschen, an denen ich mich für den Klimaschutz beteiligen kann.} \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\itshape}p{4cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} >{\itshape}p{4cm}@{}}
+    stimme überhaupt nicht zu & $\square$ & 1 & $\square$ & 2 & $\square$ & 3 & $\square$ & 4 & $\square$ & 5 & stimme voll und ganz zu \\
+\end{tabular}
+
+\vspace{2em}
+\noindent
+\textbf{Ich glaube es spielt keine Rolle, ob wir heute oder morgen anfangen, weil der Klimawandel sowieso nicht mehr zu stoppen sein wird.} \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\itshape}p{4cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} c p{0.5cm} >{\itshape}p{4cm}@{}}
+    stimme überhaupt nicht zu & $\square$ & 1 & $\square$ & 2 & $\square$ & 3 & $\square$ & 4 & $\square$ & 5 & stimme voll und ganz zu \\
+\end{tabular}
+
+\newpage
+
+\section*{Nun noch ein paar Fragen zum Schluss}
+
+\vspace{1em}
+\noindent
+Was ist Ihr bisher höchster Schul- oder Studienabschluss?
+\begin{itemize}
+    \item[] $\square$ Noch kein Schulabschluss
+    \item[] $\square$ Schule ohne Abschluss verlassen
+    \item[] $\square$ Hauptschulabschluss
+    \item[] $\square$ Realschule (Mittlere Reife)
+    \item[] $\square$ Abschluss der polytechnischen Oberschule
+    \item[] $\square$ Fachhochschulreife
+    \item[] $\square$ Hochschulreife (Abitur)
+    \item[] $\square$ Bachelorabschluss
+    \item[] $\square$ Masterabschluss/Diplom
+\end{itemize}
+
+\vspace{1em}
+\noindent
+Haben Sie Kinder?
+\begin{itemize}
+    \item[] $\square$ Nein 
+    \item[] $\square$ Ja, ich habe ein Kind 
+    \item[] $\square$ Ja, ich habe zwei Kinder
+    \item[] $\square$ Ja, ich habe mehr als zwei Kinder
+\end{itemize}
+
+\vspace{1em}
+\noindent
+Üben Sie derzeit eine Erwerbstätigkeit aus? Was trifft für Sie zu?
+\begin{itemize}
+    \item[] $\square$ Voll erwerbstätig
+    \item[] $\square$ In Teilzeitbeschäftigung
+    \item[] $\square$ Studieren ohne Nebenjob
+    \item[] $\square$ Studieren mit Nebenjob
+    \item[] $\square$ In betrieblicher Ausbildung / Lehre oder betrieblicher Umschulung
+    \item[] $\square$ Geringfügig oder unregelmäßig erwerbstätig
+    \item[] $\square$ In Altersteilzeit mit Arbeitszeit Null
+    \item[] $\square$ Im Freiwilligen Sozialen / Ökologischen Jahr
+    \item[] $\square$ Nicht erwerbstätig
+\end{itemize}
+
+\vspace{1em}
+\noindent
+Wie hoch ist Ihr monatliches Haushaltsnettoeinkommen? (Gemeint ist die Summe der Einkommen aller Haushaltsmitglieder nach Abzug der Steuern und Beiträge zur Renten-, Arbeitslosen- und Krankenversicherung.)
+\begin{itemize}
+    \item[] $\square$ Unter 1300 Euro
+    \item[] $\square$ Zwischen 1300 und 2600 Euro
+    \item[] $\square$ Zwischen 2600 und 3600 Euro
+    \item[] $\square$ Zwischen 3600 und 5000 Euro
+    \item[] $\square$ Über 5000 Euro
+\end{itemize}
+
+\vspace{1em}
+\noindent
+Besitzen Sie die deutsche Staatsbürgerschaft?
+\begin{itemize}
+    \item[] $\square$ Ja 
+    \item[] $\square$ Nein
+\end{itemize}
+
+\vspace{1em}
+\noindent
+Besitzen Sie (zusätzlich) andere Staatsbürgerschaften? Wenn ja, welche Staatsbürgerschaft(en) besitzen Sie?
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=6cm, height=1cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+
+\vspace{1em}
+\noindent
+Haben Sie neben Frankfurt noch einen weiteren Wohnsitz?
+\begin{itemize}
+    \item[] $\square$ Ja
+    \item[] $\square$ Nein
+\end{itemize}
+
+\vspace{1em}
+\noindent
+Falls Ja, wo befindet sich Ihr weiterer Wohnsitz?
+\tcbset{colback=white, colframe=lightgray, boxrule=0.5pt, arc=0mm, width=6cm, height=1cm}
+\begin{tcolorbox}[sharp corners]
+\end{tcolorbox}
+
+\vspace{2em}
+\noindent
+Wir fragen Sie nun nach Ihrer Bereitschaft, sich in einer bestimmten Art zu verhalten. \\
+\newline
+\noindent
+Wie sehr wären Sie bereit auf etwas, das für Sie heute Nutzen bringt, zu verzichten, um dadurch in Zukunft mehr zu profitieren? \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\itshape}p{2cm}*{11}{c}>{\itshape}p{4cm}@{}}
+    Überhaupt nicht bereit, dies zu tun & $\square$ 0 & $\square$ 1 & $\square$ 2 & $\square$ 3 & $\square$ 4 & $\square$ 5 & $\square$ 6 & $\square$ 7 & $\square$ 8 & $\square$ 9 & $\square$ 10 & Sehr bereit, dies zu tun \\
+\end{tabular}
+
+\vspace{1em}
+\noindent
+Wie sehr wären Sie bereit, für einen guten Zweck zu geben, ohne etwas als Gegenleistung zu erwarten? \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\itshape}p{2cm}*{11}{c}>{\itshape}p{4cm}@{}}
+    Überhaupt nicht bereit, dies zu tun & $\square$ 0 & $\square$ 1 & $\square$ 2 & $\square$ 3 & $\square$ 4 & $\square$ 5 & $\square$ 6 & $\square$ 7 & $\square$ 8 & $\square$ 9 & $\square$ 10 & Sehr bereit, dies zu tun \\
+\end{tabular}
+
+\vspace{3em}
+\noindent
+Wie gut beschreibt jede der nachfolgenden Aussagen Sie als Person? \\
+\newline
+Wenn mir jemanden einen Gefallen tut, bin ich bereit ihn zu erwidern. \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\itshape}p{2cm}*{11}{c}>{\itshape}p{4cm}@{}}
+    Beschreibt mich überhaupt nicht & $\square$ 0 & $\square$ 1 & $\square$ 2 & $\square$ 3 & $\square$ 4 & $\square$ 5 & $\square$ 6 & $\square$ 7 & $\square$ 8 & $\square$ 9 & $\square$ 10 & Beschreibt mich perfekt \\
+\end{tabular}
+
+\vspace{1em}
+\noindent
+Ich neige dazu, Aufgaben zu verschieben, auch wenn ich weiß, dass es besser wäre sie gleich zu tun. \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\itshape}p{2cm}*{11}{c}>{\itshape}p{4cm}@{}}
+    Beschreibt mich überhaupt nicht & $\square$ 0 & $\square$ 1 & $\square$ 2 & $\square$ 3 & $\square$ 4 & $\square$ 5 & $\square$ 6 & $\square$ 7 & $\square$ 8 & $\square$ 9 & $\square$ 10 & Beschreibt mich perfekt \\
+\end{tabular}
+
+\newpage
+\noindent
+\textbf{Bitte denken Sie darüber nach, was Sie in der folgenden Situation tun wurden.} Sie sind in einer Gegend, in der Sie sich nicht auskennen und merken, dass Sie sich verlaufen haben. Sie fragen einen Fremden oder eine Fremde nach dem Weg. Der/die Fremde bietet Ihnen an, Sie zum Ziel zu bringen. Ihnen zu helfen kostet den/der Fremden ungefähr 20 Euro insgesamt. Jedoch, sagt der/die Fremde, dass er bzw. sie kein Geld von Ihnen möchte. Sie haben sechs Geschenke bei sich. Das billigste Geschenk kostet 5 Euro, das teuerste Geschenk kostet 30 Euro. Würden Sie eines der Geschenke dem/der Fremden als Dankeschön geben?\\
+\begin{itemize}
+    \item[] $\square$ Nein, ich würde kein Geschenk geben
+    \item[] $\square$ Das Geschenk im Wert von 5 Euro
+    \item[] $\square$ Das Geschenk im Wert von 10 Euro
+    \item[] $\square$ Das Geschenk im Wert von 15 Euro
+    \item[] $\square$ Das Geschenk im Wert von 20 Euro
+    \item[] $\square$ Das Geschenk im Wert von 25 Euro
+    \item[] $\square$ Das Geschenk im Wert von 30 Euro
+    \item[] $\square$ Weiß nicht
+\end{itemize}
+
+\vspace{2em}
+\noindent
+Viele Leute verwenden die Begriffe „links“ und „rechts“, wenn es darum geht, unterschiedliche politische Einstellungen zu kennzeichnen. \\
+\newline
+Wenn Sie an Ihre eigenen politischen Ansichten denken, wo würden Sie diese Ansichten auf dieser Skala einstufen? \\
+\newline
+\noindent
+\begin{tabular}{@{}>{\bfseries\itshape}p{1cm}*{11}{c}>{\bfseries\itshape}p{3cm}@{}}
+    links & $\square$ 1 & $\square$ 2 & $\square$ 3 & $\square$ 4 & $\square$ 5 & $\square$ 6 & $\square$ 7 & $\square$ 8 & $\square$ 9 & $\square$ 10 & $\square$ 11 & rechts \\
+\end{tabular}
+
+
+\vspace{3em}
+\noindent
+Welche Partei würden Sie wählen, wenn am kommenden Sonntag Bundestagswahl wäre?
+\begin{itemize}
+    \item[] $\square$ SPD
+    \item[] $\square$ CDU/CSU
+    \item[] $\square$ Bündnis 90/Die Grüne
+    \item[] $\square$ FDP
+    \item[] $\square$ AfD
+    \item[] $\square$ Die Linke
+    \item[] $\square$ Andere
+\end{itemize}
+
+\newpage
+
+\section*{Vielen Dank!}
+\vspace{1em} 
+{\normalsize Vielen Dank, dass Sie an der Umfrage teilgenommen haben. Sie können den Tab nun schließen.} 
+
+\end{document}
